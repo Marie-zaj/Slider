@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.slider{
+    width: 100%;
+    display: flex;
+}
+.image{
+    width: 100%;
+}
+.image img{
+    width: 100%;
+    display: block;
+}
